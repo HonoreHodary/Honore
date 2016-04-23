@@ -85,22 +85,22 @@ namespace BooksLibrary.Admin {
         protected global::System.Web.UI.WebControls.TextBox txtAuthor;
         
         /// <summary>
-        /// lblPublisher control.
+        /// lblPublicationDate control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblPublisher;
+        protected global::System.Web.UI.WebControls.Label lblPublicationDate;
         
         /// <summary>
-        /// txtPublisher control.
+        /// txtPublicationDate control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtPublisher;
+        protected global::System.Web.UI.WebControls.TextBox txtPublicationDate;
         
         /// <summary>
         /// lblDescription control.
@@ -130,13 +130,13 @@ namespace BooksLibrary.Admin {
         protected global::System.Web.UI.WebControls.Button btnSubmit;
         
         /// <summary>
-        /// labelMessage control.
+        /// hdnFocus control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label labelMessage;
+        protected global::System.Web.UI.WebControls.HiddenField hdnFocus;
         
         /// <summary>
         /// hdnErrorMsg control.
@@ -173,5 +173,14 @@ namespace BooksLibrary.Admin {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.HiddenField hdnProc;
+        
+        /// <summary>
+        /// hdnUserID control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HiddenField hdnUserID;
     }
 }
