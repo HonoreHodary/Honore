@@ -33,7 +33,7 @@ namespace BooksLibrary.Admin
                 return;
             }
 
-            Task<List<Book>> list = ValidateISBN(isbn);
+            List<Book> list = ValidateISBN(isbn);
 
             if (list.Result.Count > 0)
             {
@@ -108,7 +108,7 @@ namespace BooksLibrary.Admin
             return true;
         }
 
-        public async Task<List<Book>> ValidateISBN(string isbn)
+        public List<Book> ValidateISBN(string isbn)
         {
             Book book = new Book();
 
@@ -121,9 +121,7 @@ namespace BooksLibrary.Admin
                 var builder = Builders<Book>.Filter;
                 var filter = Builders<Book>.Filter.Eq("Isbn", isbn);
 
-                //var sort = Builders<Book>.Sort.Ascending("Title");
-
-                var result = await collection.Find(filter).ToListAsync();
+                var result = collection.Find(filter).ToList();
 
                 return result;
             }
