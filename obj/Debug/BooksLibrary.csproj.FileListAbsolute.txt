@@ -1,197 +1,39 @@
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\obj\Debug\BooksLibrary.csprojResolveAssemblyReference.cache
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\obj\Debug\BooksLibrary.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\obj\Debug\BooksLibrary.pdb
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\ApplicationInsights.config
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\roslyn\csc.exe
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\roslyn\vbc.exe
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\roslyn\VBCSCompiler.exe
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\BooksLibrary.dll.config
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\BooksLibrary.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\BooksLibrary.pdb
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\AjaxControlToolkit.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\Microsoft.AI.Web.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\Microsoft.ApplicationInsights.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\MongoDB.Bson.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\MongoDB.Driver.Core.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\MongoDB.Driver.dll
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\Microsoft.AI.Web.xml
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\Microsoft.ApplicationInsights.xml
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\MongoDB.Bson.xml
-C:\Users\Honore\Desktop\BooksLibrary\BooksLibrary\bin\MongoDB.Driver.xml
-G:\BooksLibrary\BooksLibrary\bin\ApplicationInsights.config
-G:\BooksLibrary\BooksLibrary\bin\roslyn\csc.exe
-G:\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-G:\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-G:\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
-G:\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-G:\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
-G:\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
-G:\BooksLibrary\BooksLibrary\bin\roslyn\System.Collections.Immutable.dll
-G:\BooksLibrary\BooksLibrary\bin\roslyn\System.Reflection.Metadata.dll
-G:\BooksLibrary\BooksLibrary\bin\roslyn\vbc.exe
-G:\BooksLibrary\BooksLibrary\bin\roslyn\VBCSCompiler.exe
-G:\BooksLibrary\BooksLibrary\bin\roslyn\VBCSCompiler.exe.config
-G:\BooksLibrary\BooksLibrary\bin\BooksLibrary.dll.config
-G:\BooksLibrary\BooksLibrary\bin\BooksLibrary.dll
-G:\BooksLibrary\BooksLibrary\bin\BooksLibrary.pdb
-G:\BooksLibrary\BooksLibrary\bin\AjaxControlToolkit.dll
-G:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.Agent.Intercept.dll
-G:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.DependencyCollector.dll
-G:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.PerfCounterCollector.dll
-G:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.ServerTelemetryChannel.dll
-G:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.Web.dll
-G:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.WindowsServer.dll
-G:\BooksLibrary\BooksLibrary\bin\Microsoft.ApplicationInsights.dll
-G:\BooksLibrary\BooksLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-G:\BooksLibrary\BooksLibrary\bin\MongoDB.Bson.dll
-G:\BooksLibrary\BooksLibrary\bin\MongoDB.Driver.Core.dll
-G:\BooksLibrary\BooksLibrary\bin\MongoDB.Driver.dll
-G:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.DependencyCollector.xml
-G:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.ServerTelemetryChannel.xml
-G:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.Web.xml
-G:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.WindowsServer.xml
-G:\BooksLibrary\BooksLibrary\bin\Microsoft.ApplicationInsights.xml
-G:\BooksLibrary\BooksLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-G:\BooksLibrary\BooksLibrary\bin\MongoDB.Bson.xml
-G:\BooksLibrary\BooksLibrary\bin\MongoDB.Driver.xml
-G:\BooksLibrary\BooksLibrary\obj\Debug\BooksLibrary.csprojResolveAssemblyReference.cache
-G:\BooksLibrary\BooksLibrary\obj\Debug\BooksLibrary.dll
-G:\BooksLibrary\BooksLibrary\obj\Debug\BooksLibrary.pdb
-F:\BooksLibrary\BooksLibrary\bin\ApplicationInsights.config
-F:\BooksLibrary\BooksLibrary\bin\roslyn\csc.exe
-F:\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-F:\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-F:\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
-F:\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-F:\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
-F:\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
-F:\BooksLibrary\BooksLibrary\bin\roslyn\System.Collections.Immutable.dll
-F:\BooksLibrary\BooksLibrary\bin\roslyn\System.Reflection.Metadata.dll
-F:\BooksLibrary\BooksLibrary\bin\roslyn\vbc.exe
-F:\BooksLibrary\BooksLibrary\bin\roslyn\VBCSCompiler.exe
-F:\BooksLibrary\BooksLibrary\bin\roslyn\VBCSCompiler.exe.config
-F:\BooksLibrary\BooksLibrary\bin\BooksLibrary.dll.config
-F:\BooksLibrary\BooksLibrary\bin\BooksLibrary.dll
-F:\BooksLibrary\BooksLibrary\bin\BooksLibrary.pdb
-F:\BooksLibrary\BooksLibrary\bin\AjaxControlToolkit.dll
-F:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.Agent.Intercept.dll
-F:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.DependencyCollector.dll
-F:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.PerfCounterCollector.dll
-F:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.ServerTelemetryChannel.dll
-F:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.Web.dll
-F:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.WindowsServer.dll
-F:\BooksLibrary\BooksLibrary\bin\Microsoft.ApplicationInsights.dll
-F:\BooksLibrary\BooksLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-F:\BooksLibrary\BooksLibrary\bin\MongoDB.Bson.dll
-F:\BooksLibrary\BooksLibrary\bin\MongoDB.Driver.Core.dll
-F:\BooksLibrary\BooksLibrary\bin\MongoDB.Driver.dll
-F:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.DependencyCollector.xml
-F:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.ServerTelemetryChannel.xml
-F:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.Web.xml
-F:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.WindowsServer.xml
-F:\BooksLibrary\BooksLibrary\bin\Microsoft.ApplicationInsights.xml
-F:\BooksLibrary\BooksLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-F:\BooksLibrary\BooksLibrary\bin\MongoDB.Bson.xml
-F:\BooksLibrary\BooksLibrary\bin\MongoDB.Driver.xml
-F:\BooksLibrary\BooksLibrary\obj\Debug\BooksLibrary.csprojResolveAssemblyReference.cache
-F:\BooksLibrary\BooksLibrary\obj\Debug\BooksLibrary.dll
-F:\BooksLibrary\BooksLibrary\obj\Debug\BooksLibrary.pdb
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\ApplicationInsights.config
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\roslyn\csc.exe
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\roslyn\vbc.exe
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\roslyn\VBCSCompiler.exe
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\BooksLibrary.dll.config
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\BooksLibrary.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\BooksLibrary.pdb
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\AjaxControlToolkit.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\Microsoft.AI.Web.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\Microsoft.ApplicationInsights.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\MongoDB.Bson.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\MongoDB.Driver.Core.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\MongoDB.Driver.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\Microsoft.AI.Web.xml
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\Microsoft.ApplicationInsights.xml
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\MongoDB.Bson.xml
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\bin\MongoDB.Driver.xml
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\obj\Debug\BooksLibrary.dll
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\obj\Debug\BooksLibrary.pdb
-C:\Users\Honore\Documents\Visual Studio 2015\Projects\BooksLibrary\BooksLibrary\obj\Debug\BooksLibrary.csprojResolveAssemblyReference.cache
-E:\BooksLibrary\BooksLibrary\bin\ApplicationInsights.config
-E:\BooksLibrary\BooksLibrary\bin\roslyn\csc.exe
-E:\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-E:\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-E:\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
-E:\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-E:\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
-E:\BooksLibrary\BooksLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
-E:\BooksLibrary\BooksLibrary\bin\roslyn\System.Collections.Immutable.dll
-E:\BooksLibrary\BooksLibrary\bin\roslyn\System.Reflection.Metadata.dll
-E:\BooksLibrary\BooksLibrary\bin\roslyn\vbc.exe
-E:\BooksLibrary\BooksLibrary\bin\roslyn\VBCSCompiler.exe
-E:\BooksLibrary\BooksLibrary\bin\roslyn\VBCSCompiler.exe.config
-E:\BooksLibrary\BooksLibrary\bin\BooksLibrary.dll.config
-E:\BooksLibrary\BooksLibrary\bin\BooksLibrary.dll
-E:\BooksLibrary\BooksLibrary\bin\BooksLibrary.pdb
-E:\BooksLibrary\BooksLibrary\bin\AjaxControlToolkit.dll
-E:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.Agent.Intercept.dll
-E:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.DependencyCollector.dll
-E:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.PerfCounterCollector.dll
-E:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.ServerTelemetryChannel.dll
-E:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.Web.dll
-E:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.WindowsServer.dll
-E:\BooksLibrary\BooksLibrary\bin\Microsoft.ApplicationInsights.dll
-E:\BooksLibrary\BooksLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-E:\BooksLibrary\BooksLibrary\bin\MongoDB.Bson.dll
-E:\BooksLibrary\BooksLibrary\bin\MongoDB.Driver.Core.dll
-E:\BooksLibrary\BooksLibrary\bin\MongoDB.Driver.dll
-E:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.DependencyCollector.xml
-E:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.ServerTelemetryChannel.xml
-E:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.Web.xml
-E:\BooksLibrary\BooksLibrary\bin\Microsoft.AI.WindowsServer.xml
-E:\BooksLibrary\BooksLibrary\bin\Microsoft.ApplicationInsights.xml
-E:\BooksLibrary\BooksLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\BooksLibrary\BooksLibrary\bin\MongoDB.Bson.xml
-E:\BooksLibrary\BooksLibrary\bin\MongoDB.Driver.xml
-E:\BooksLibrary\BooksLibrary\obj\Debug\BooksLibrary.csprojResolveAssemblyReference.cache
-E:\BooksLibrary\BooksLibrary\obj\Debug\BooksLibrary.dll
-E:\BooksLibrary\BooksLibrary\obj\Debug\BooksLibrary.pdb
-C:\ACS590_Project\obj\Debug\BooksLibrary.dll
-C:\ACS590_Project\obj\Debug\BooksLibrary.pdb
+C:\Users\Honore\Desktop\Honore-master\bin\ApplicationInsights.config
+C:\Users\Honore\Desktop\Honore-master\bin\roslyn\csc.exe
+C:\Users\Honore\Desktop\Honore-master\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Honore\Desktop\Honore-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Honore\Desktop\Honore-master\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Honore\Desktop\Honore-master\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Honore\Desktop\Honore-master\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Honore\Desktop\Honore-master\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Honore\Desktop\Honore-master\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Honore\Desktop\Honore-master\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Honore\Desktop\Honore-master\bin\roslyn\vbc.exe
+C:\Users\Honore\Desktop\Honore-master\bin\roslyn\VBCSCompiler.exe
+C:\Users\Honore\Desktop\Honore-master\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Honore\Desktop\Honore-master\bin\BooksLibrary.dll.config
+C:\Users\Honore\Desktop\Honore-master\bin\BooksLibrary.dll
+C:\Users\Honore\Desktop\Honore-master\bin\BooksLibrary.pdb
+C:\Users\Honore\Desktop\Honore-master\bin\AjaxControlToolkit.dll
+C:\Users\Honore\Desktop\Honore-master\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Honore\Desktop\Honore-master\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Honore\Desktop\Honore-master\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Honore\Desktop\Honore-master\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Honore\Desktop\Honore-master\bin\Microsoft.AI.Web.dll
+C:\Users\Honore\Desktop\Honore-master\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Honore\Desktop\Honore-master\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Honore\Desktop\Honore-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Honore\Desktop\Honore-master\bin\MongoDB.Bson.dll
+C:\Users\Honore\Desktop\Honore-master\bin\MongoDB.Driver.Core.dll
+C:\Users\Honore\Desktop\Honore-master\bin\MongoDB.Driver.dll
+C:\Users\Honore\Desktop\Honore-master\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Honore\Desktop\Honore-master\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Honore\Desktop\Honore-master\bin\Microsoft.AI.Web.xml
+C:\Users\Honore\Desktop\Honore-master\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Honore\Desktop\Honore-master\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Honore\Desktop\Honore-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Honore\Desktop\Honore-master\bin\MongoDB.Bson.xml
+C:\Users\Honore\Desktop\Honore-master\bin\MongoDB.Driver.xml
+C:\Users\Honore\Desktop\Honore-master\obj\Debug\BooksLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Honore\Desktop\Honore-master\obj\Debug\BooksLibrary.dll
+C:\Users\Honore\Desktop\Honore-master\obj\Debug\BooksLibrary.pdb

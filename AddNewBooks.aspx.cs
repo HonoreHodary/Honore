@@ -35,7 +35,7 @@ namespace BooksLibrary.Admin
 
             List<Book> list = ValidateISBN(isbn);
 
-            if (list.Result.Count > 0)
+            if (list.Count > 0)
             {
                 labelMessage.Text = "The ISBN number already exist in the database!";
                 return;
