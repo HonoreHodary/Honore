@@ -193,3 +193,5 @@ E:\BooksLibrary\BooksLibrary\bin\MongoDB.Driver.xml
 E:\BooksLibrary\BooksLibrary\obj\Debug\BooksLibrary.csprojResolveAssemblyReference.cache
 E:\BooksLibrary\BooksLibrary\obj\Debug\BooksLibrary.dll
 E:\BooksLibrary\BooksLibrary\obj\Debug\BooksLibrary.pdb
+C:\ACS590_Project\obj\Debug\BooksLibrary.dll
+C:\ACS590_Project\obj\Debug\BooksLibrary.pdb
